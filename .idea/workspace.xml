@@ -2,23 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="120b17e9-5891-40cf-9b0f-99970d224f46" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/styles/base/_global.pcss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/styles/base/_mixins.pcss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/styles/base/_variables.pcss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/styles/modules/_btn.pcss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/styles/modules/_generic-content-container.pcss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/styles/modules/_headline.pcss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/styles/modules/_large-hero.pcss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/styles/modules/_page-section.pcss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/styles/modules/_row.pcss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/styles/modules/_wrapper.pcss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/styles/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/temp/styles/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gulp/tasks/styles.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gulp/tasks/watch.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/index.html" afterPath="$PROJECT_DIR$/app/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
     </list>
     <ignored path="travel-site.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -42,19 +27,19 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1103">
-              <caret line="89" column="28" lean-forward="false" selection-start-line="89" selection-start-column="28" selection-end-line="89" selection-end-column="28" />
+            <state relative-caret-position="306">
+              <caret line="16" column="14" lean-forward="false" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
               <folding>
-                <element signature="e#2433#2440#0" expanded="true" />
-                <element signature="e#3698#3705#0" expanded="true" />
-                <element signature="e#3745#3753#0" expanded="true" />
-                <element signature="e#6046#6053#0" expanded="true" />
-                <element signature="e#6113#6120#0" expanded="true" />
-                <element signature="e#6146#6153#0" expanded="true" />
-                <element signature="e#6417#6424#0" expanded="true" />
-                <element signature="e#6505#6512#0" expanded="true" />
-                <element signature="e#6825#6832#0" expanded="true" />
-                <element signature="e#6924#6931#0" expanded="true" />
+                <element signature="e#2504#2511#0" expanded="true" />
+                <element signature="e#3769#3776#0" expanded="true" />
+                <element signature="e#3816#3824#0" expanded="true" />
+                <element signature="e#6117#6124#0" expanded="true" />
+                <element signature="e#6184#6191#0" expanded="true" />
+                <element signature="e#6217#6224#0" expanded="true" />
+                <element signature="e#6488#6495#0" expanded="true" />
+                <element signature="e#6576#6583#0" expanded="true" />
+                <element signature="e#6896#6903#0" expanded="true" />
+                <element signature="e#6995#7002#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -399,16 +384,16 @@
       <workItem from="1475523723933" duration="28000" />
       <workItem from="1475523803355" duration="51000" />
       <workItem from="1475523879849" duration="94000" />
-      <workItem from="1475523986087" duration="16122000" />
+      <workItem from="1475523986087" duration="16342000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19399000" />
+    <option name="totallyTimeSpent" value="19619000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2720" y="-517" width="1280" height="1417" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -419,7 +404,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3212166" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3212166" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -802,19 +787,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1103">
-          <caret line="89" column="28" lean-forward="false" selection-start-line="89" selection-start-column="28" selection-end-line="89" selection-end-column="28" />
+        <state relative-caret-position="306">
+          <caret line="16" column="14" lean-forward="false" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
           <folding>
-            <element signature="e#2433#2440#0" expanded="true" />
-            <element signature="e#3698#3705#0" expanded="true" />
-            <element signature="e#3745#3753#0" expanded="true" />
-            <element signature="e#6046#6053#0" expanded="true" />
-            <element signature="e#6113#6120#0" expanded="true" />
-            <element signature="e#6146#6153#0" expanded="true" />
-            <element signature="e#6417#6424#0" expanded="true" />
-            <element signature="e#6505#6512#0" expanded="true" />
-            <element signature="e#6825#6832#0" expanded="true" />
-            <element signature="e#6924#6931#0" expanded="true" />
+            <element signature="e#2504#2511#0" expanded="true" />
+            <element signature="e#3769#3776#0" expanded="true" />
+            <element signature="e#3816#3824#0" expanded="true" />
+            <element signature="e#6117#6124#0" expanded="true" />
+            <element signature="e#6184#6191#0" expanded="true" />
+            <element signature="e#6217#6224#0" expanded="true" />
+            <element signature="e#6488#6495#0" expanded="true" />
+            <element signature="e#6576#6583#0" expanded="true" />
+            <element signature="e#6896#6903#0" expanded="true" />
+            <element signature="e#6995#7002#0" expanded="true" />
           </folding>
         </state>
       </provider>
